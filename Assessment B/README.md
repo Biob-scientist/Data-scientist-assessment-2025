@@ -25,10 +25,6 @@ This project developed a **machine learning screening tool** to predict potentia
   - Females: 18,618 tested, ~7.0% positive  
 - **Feature selection**: 15 statistically significant features retained
 
-**Visualizations**:  
-
-![Age distribution](images/age_distribution.png)  
-![Symptoms heatmap](images/symptoms_heatmap.png)
 
 ---
 
