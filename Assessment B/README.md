@@ -1,10 +1,13 @@
 # COVID-19 Screening Tool
 
 ## Overview
-This project developed a **machine learning screening tool** to predict potential COVID-19 cases based on patient demographics and symptoms. The tool is designed for **early detection and public health triage**, not as a diagnostic test.
+In this project we developed a **machine learning screening tool** to predict potential COVID-19 cases based on patient demographics and symptoms. The tool is designed for **early detection and public health triage**, not as a diagnostic test.
 
 ---
 
+![COVID-19 Screening App](covid_app.png)
+
+---
 ## Data Description and Preprocessing
 - **Original dataset**: 109,927 rows, 47 features  
 - **Target variable**: COVID-19 test results (positive / negative)  
@@ -69,7 +72,6 @@ The final **Logistic Regression model** was deployed using **Gradio**:
 - Users input demographic and symptom data  
 - Outputs real-time **screening prediction**  
 
-![image.png](attachment:9afcf77f-fd3b-4fb9-8ecf-61149394c960.png)
 
 ---
 
