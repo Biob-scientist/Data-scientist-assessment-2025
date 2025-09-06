@@ -1,0 +1,7 @@
+"Sex (0=Male, 1=Female)",Chills or Sweats,Cough,Diarrhea,Difficulty Breathing or Dyspnea,Fatigue or General Weakness,Fever,Joint Pain or Arthritis,Muscle Pain,Nausea,Runny Nose,Sore Throat or Pharyngitis,Vomiting,Loss of Taste,Loss of Smell,Age (scaled if needed),output,timestamp
+1,true,true,false,true,false,true,false,true,true,true,true,false,false,false,0,,2025-09-06 03:08:44.495332
+,true,true,false,true,true,false,false,false,false,false,false,false,false,false,0,,2025-09-06 03:09:38.745506
+0,false,false,false,true,false,false,false,false,true,false,true,true,false,false,86,,2025-09-06 03:11:25.606303
+0,false,false,false,true,false,false,false,false,true,false,true,true,false,false,86,,2025-09-06 03:11:33.798793
+0,false,false,false,true,false,false,false,false,true,false,true,true,false,false,38,Likely COVID Positive (Probability: 100.00%),2025-09-06 03:11:55.421307
+,false,false,false,false,false,false,false,true,true,false,true,false,false,false,47,,2025-09-06 03:12:23.989547

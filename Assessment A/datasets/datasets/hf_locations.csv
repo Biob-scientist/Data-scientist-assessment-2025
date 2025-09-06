@@ -1,0 +1,218 @@
+hf_name,latitude,longitude,state_name,lga_name,senatorial_district,globalid
+Umuokehi Primary Health Centre,5.585375,7.473098333,Abia,Umuahia North,Abia Central ,2d5c9c5e-7626-46f9-b581-dcdc3e4c31e0
+Mkpuka Primary Health Centre,5.283011667,7.326133333,Abia,Isiala Ngwa South,Abia Central ,18b9dcaf-2be5-4d8f-b4d2-2ca8c446ac49
+Etiti Ohazu 4 Igwebuike Ward 7,5.078583333,7.35255,Abia,Aba South,Abia South ,86f8c4a9-ccbd-405b-8e39-6db4fb7e5603
+Okpu Umuobo Primary Health Centre,5.167778333,7.359173333,Abia,Osisioma Ngwa,Abia South ,6bed7912-7c6a-45ad-8f6a-a98f0f0e1498
+Ozuabam Primary Health Centre,5.596001667,7.747691667,Abia,Arochukwu,Abia North ,6c6e5e73-54c2-467b-a9ad-c9893aa71f5c
+Amamba Primary Health Centre,5.693858333,7.728258333,Abia,Ohafia,Abia North ,da9ddbc5-bd3b-46c9-95fe-a0fb30c82ee8
+Loh PHCC,9.500581667,12.109585,Adamawa,Demsa,Adamawa South ,fac9d727-4a66-4e41-87ce-ecfa5cf3c864
+Chigari PHCC ,9.071611667,12.66321167,Adamawa,Fufore,Adamawa Central,89fb2cf1-b555-4ee5-82e9-14c7563d7269
+Mijili PHC,10.34869833,12.97656167,Adamawa,Hong,Adamawa Central,c909be75-46bc-47b3-b16b-6b1f14a12eb8
+Sorau PHCC,9.745923333,13.24917333,Adamawa,Maiha,Adamawa North,7e87bb0b-2643-4a1b-8963-7cc309f10550
+Lokuwa PHCC,10.26954167,13.280245,Adamawa,Mubi North,Adamawa North,d41ddcca-66b3-46c8-823e-1fca0fbfb621
+Jada 1 PHCC,8.755425,12.15150333,Adamawa,Jada,Adamawa South ,2c62fa19-d828-4e5d-89e6-e2952f638938
+Op Base Abak,4.986236667,7.795236667,Akwa Ibom,Abak,Akwa Ibom North West ,029d45eb-a9f3-4b55-9629-6d313e1d38c4
+Health Centre Use Uruan,4.946938333,8.059818333,Akwa Ibom,Uruan,Akwa Ibom North East,5eb09037-2a24-457f-aece-3379766c2321
+Primary Health Centre Ikot Idiong,4.71249,7.770108333,Akwa Ibom,Mkpat Enin,Akwa Ibom South ,1ac42d21-6f44-48ca-a79c-698bc0b15e81
+Primary Health Centre Operational Base Eket,4.642041667,7.923836667,Akwa Ibom,Eket,Akwa Ibom South ,93e83aae-c6bb-408d-9a08-6e8f120a3e0b
+Health Centre Nung Ukim,5.281563333,7.74719,Akwa Ibom,Ikono,Akwa Ibom North West ,1d199fd1-236b-4026-bc3d-ca89f691c2af
+Model Health Centre Type1 Nkim Itam Itu,5.146263333,7.975586667,Akwa Ibom,Itu,Akwa Ibom North East,f503fdce-e4ac-426d-8231-1872a0e40f32
+Primary Health Centre Uruogbo,6.17588,7.010995,Anambra,Njikoka,Anambra Central ,9e95e982-74ab-4b10-afe8-5f6f4d4393dc
+Alor Primary Health Care Centre,6.081,6.960786667,Anambra,Idemili South,Anambra Central ,cb23fa2f-b858-4dda-929f-fda3cae40b00
+Primary Health Centre Aguata,6.014406667,7.091888333,Anambra,Aguata,Anambra South ,c65484df-076f-49b3-92a0-18644c13e01e
+Okija Primary Health Centre,5.8983,6.838998333,Anambra,Ihiala,Anambra South ,a723c5df-7d98-448d-8727-0096429f508f
+Primary Health Care Centre Ogbnike,6.164668333,6.89151,Anambra,Oyi,Anambra North ,7d4e8b1c-396c-4cc4-8281-b5bfba90528b
+Model Primary Health Care Centre Umunna,6.147465,6.785805,Anambra,Onitsha South,Anambra North ,baed6a28-b5a7-445c-9bc8-d98458e067aa
+Dajin PHC,10.03251,9.64075,Bauchi,Tafawa Balewa,Bauchi South ,ce298853-5486-4a5c-857a-3dd5529df6b1
+Tafare Mawurni Bisa MPHC,9.758643333,9.43854,Bauchi,Tafawa Balewa,Bauchi South ,b340edeb-f465-486d-abad-4319c1c31dd1
+Nassawa PHC,10.613135,9.920748333,Bauchi,Ganjuwa,Bauchi Central ,bacef68e-7dbb-44a0-a9d4-d47697a49156
+Sade PHC,11.35104333,10.67384333,Bauchi,Darazo,Bauchi Central ,9fa1005d-8eea-49db-bbef-edb2dd87f68b
+Magwanshi Health Clinic,11.72849333,10.13627833,Bauchi,Katagum,Bauchi North ,dc5651f3-15c5-4d9c-b098-80931a52bc00
+Gadau Health Clinic,11.838155,10.17136833,Bauchi,Itas-Gadau,Bauchi North ,8e9faf9b-ab12-483b-9470-b58cddd64a6f
+Model Primary Health Care Centre Akpagher 2,7.295641667,8.807555,Benue,Gboko,Benue North West,c4f50cae-8d84-494f-b9ea-e9fcd76a2492
+Primary Health Care Mtir,7.259711667,9.260503333,Benue,Katsina-Ala,Benue North East ,4d7cbc95-f96f-47c5-a85d-3d1ca2ee6575
+Primary Health Care Manyam,6.963161667,9.426318333,Benue,Kwande,Benue North East ,6d3a1104-2217-4a0e-abac-6c22766e8ea9
+Jimba Primary Health Care,7.63233,8.337056667,Benue,Gwer-West,Benue North West,47c5a6e2-6443-41c4-885c-bef291065a95
+Model Primary Health Care Centre Agbaha Otukpa,7.089943333,7.65685,Benue,Ogbadibo,Benue South,ec29f0f3-5ebe-4e02-8a24-7ed3b089cd04
+"Comprehensive Health Centre, Utonkon",6.950986667,8.0355,Benue,Ado,Benue South,beedf908-9099-4b02-a30c-4e5482549a63
+Husara HC,10.49868167,13.23702167,Borno,Askira-Uba,Borno South,96fd7e3d-3240-49e3-9778-7bdb538033df
+MCH Shani,10.21812833,12.06467,Borno,Shani,Borno South,4815dba7-428c-4027-8b73-42968efa96bf
+MCH Gwozari,11.83334,13.19485333,Borno,Mafa,Borno Central,8de9cbba-abed-454d-acf7-c01caef61ff6
+MPHC Gaji Ganna,12.25537333,13.10644833,Borno,Magumeri,Borno North,6c6f6243-7fb8-407d-8763-7a7a82710792
+MCH Magumeri,12.11505833,12.82572,Borno,Magumeri,Borno North,38f817b9-ee4d-4cc9-9933-4d2cf837d67f
+Gamboru M& C Welfare Clinic,11.84552833,13.16681667,Borno,Maiduguri,Borno Central,94af70da-01f2-4e68-96f7-b4b10942c511
+Primary Health Care Tombia,4.999655,6.26422,Bayelsa,Yenagoa,Bayelsa Central ,be40dd2b-95e4-41ad-a8e1-bd39e83486fd
+Primary Health Care Yenizue-Gene,4.943135,6.323928333,Bayelsa,Yenagoa,Bayelsa Central ,966f5e64-693a-4d49-97ec-b3015e3f3d69
+Primary Health Centre Akeddei,4.927873333,6.05843,Bayelsa,Sagbama,Bayelsa West ,7879a712-aa8f-4b7a-9c2e-970e6e8155e5
+Primary Health Centre Akeddei,4.927873333,6.05843,Bayelsa,Sagbama,Bayelsa West ,7cc06eab-168c-4371-b78c-90b57d5ae6fb
+Health Centre Nembe Creek,4.439553333,6.3251,Bayelsa,Nembe,Bayelsa East,d958a335-b3b6-453d-aa11-54dfa34e4c8e
+Primary Health Centre Minibie,4.30975,6.053833,Bayelsa,Brass,Bayelsa East,6a7f5b20-ec99-45e1-8b9b-ef5d4a5a1d6d
+Primary Health Care Adim,5.737975,8.040461667,Cross River,Biase,Cross River North,122f6a54-f117-444b-8ab1-18f1cdfe0a20
+Ofatura Health Centre,5.9956,8.27764,Cross River,Obubra,Cross River Central,a6773ea8-d57a-472c-8140-4c67dae91f70
+Nkpat Begbo Health Post,6.49426,8.82069,Cross River,Boki,Cross River Central,816b1ee7-a710-4aa2-8ac9-df91b0af659d
+Primary Health Care Centre Okikwo Alege,6.548433333,9.074125,Cross River,Obudu,Cross River North,e4d2f64c-04e4-4eb9-8df7-7f7f747b6701
+Health Centre Ndon Nwong,5.194876667,8.168343333,Cross River,Odukpani,Cross River South,0f370313-f251-4272-bd06-18e9463df935
+Health Post Edik Idim Ikot Eyi,4.81704,8.493361667,Cross River,Bakassi,Cross River South,9a7dcc52-1389-4c04-90b3-0fb13cc49232
+"Iterigbi Primary Health Care, Iterigbi",5.573386667,5.841301667,Delta,Uvwie,Delta Central,5af4ba28-78e8-4fd1-88c7-1ac3ec5d2489
+"Primary Health Care Centre, Orhokpokpor Agbarho",5.57604,5.890206667,Delta,Ughelli North,Delta Central,d347bcc4-36d2-4ead-b844-27b782b57ce3
+"Primary Health Care Centre,Olomoro",5.411971667,6.145265,Delta,Ughelli South,Delta Central,6e3aa155-2501-4919-8098-6de1c718181f
+"Primary Health Care Centre, Ogbaju Ogume",5.762213333,6.33239,Delta,Ndokwa West,Delta North,f8d47d68-165a-464f-ad87-cd2127e46a90
+Primary Health Care Centre Umuagu,6.205013333,6.72345,Delta,Oshimili South,Delta North,475d9eea-caf0-4e3e-8130-4350239be7d1
+"Primary Health Care ,Igbogili",6.127366667,6.144715,Delta,Ika South,Delta North,1d11286b-9a1a-40d9-be86-9f3bbcfe162a
+Obegu Ikenyi Primary Health Centre,6.391865,8.17855,Ebonyi,Izzi,Ebonyi North,89f86487-9ce9-46e4-ab2f-106acc47c635
+Umuome Primary Health Centre,6.213165,8.057513333,Ebonyi,Ezza North,Ebonyi Central,ad132229-fd1a-4cde-a255-0eb6a5874b62
+"Primary Health Care Centre, Ndiaguazu, Enyibichiri ",6.164025,8.217866667,Ebonyi,Ikwo,Ebonyi Central,ff57ab24-5bbf-46d5-8bdf-a008806e4b7b
+Ngbo Primary Health Centre,6.457516667,7.964536667,Ebonyi,Ohaukwu,Ebonyi North,1daa4c85-d100-49c0-962d-c61ec850ee50
+Egugwu Health Centre,6.027335,7.702021667,Ebonyi,Ohaozara,Ebonyi South,34cc2808-75a1-41f5-9d80-537e62872030
+Ameze Health Centre,5.96554,7.54338,Ebonyi,Ivo,Ebonyi South,8863f7ce-0c35-4db0-bde0-66ea3d874ae4
+Urhokuosa PHC,6.453858333,5.804378333,Edo,Uhunmwonde,Edo South,079a97b1-dfab-4064-a63a-f0ea52d9195d
+Ologbo PHC,6.069098333,5.66051,Edo,Ikpoba Okha,Edo South,d4dc6ffa-08a6-4fbb-94a6-d983c767dd47
+Uwessan 2 PHC,6.77507,6.358196667,Edo,Esan Central,Edo Central,693ecec9-0951-4c8d-9af1-5b41a81c714a
+Egbele PHC,6.731188333,6.322038333,Edo,Esan North East,Edo Central,ba20d274-b7f6-47f3-a6f3-9aa9fa8da913
+Ihivbe 2 PHC,7.049178333,6.12372,Edo,Owan East,Edo North,8de2848d-ca24-4fb3-9305-cacdb8dd0306
+Ibienafe PHC,7.050525,6.306385,Edo,Etsako West,Edo North,3d44899b-887d-4fbe-9641-b9aacc5bee41
+Basic Health Centre Isaba,7.784028333,5.49785,Ekiti,Ikole,Ekiti North,165f84d7-1610-4af5-9936-76b13dc118b8
+Comprehensive Health Centre Ire Ekiti,7.742278333,5.392511667,Ekiti,Oye,Ekiti North,1d4824ea-4745-4b47-9c53-b33a9384ae74
+Basic Health Centre Odo Emure,7.438273333,5.467405,Ekiti,Emure,Ekiti South,f735b771-e783-4bc8-a8ca-b79758260dec
+Comprehensive Health Centre Oke-Yard,7.460291667,5.43135,Ekiti,Ise/orun,Ekiti South,a261c58c-74e8-4995-b2ba-05e4f6b097ed
+CHC Okesa,7.624526667,5.22307,Ekiti,Ado Ekiti,Ekiti Central,664fe436-bc02-41ac-bd11-9a327b8e6c16
+BHC Oke Ureje Eminrin,7.612613333,5.257838333,Ekiti,Ado Ekiti,Ekiti Central,647abd1a-4dd5-49d4-8351-8cc9140fcc66
+Nsukka Health Centre,6.855265,7.388541667,Enugu,Nsukka,Enugu North,03daa9b1-a580-408d-84e6-f04023fb758e
+Model Primary Health Care Centre Orba.,6.859865,7.468445,Enugu,Udenu,Enugu North,202522d8-78be-4dce-9725-f4766f041c72
+Asata Health Centre,6.445708333,7.500395,Enugu,Enugu North,Enugu East,1ce5d265-aea9-4a09-84fd-d0f25a5ae303
+Amodu Health Centre,6.347315,7.534,Enugu,Nkanu West,Enugu East,a81dc010-a6c2-4a79-8045-08a0160d3cd8
+Mgbowo Health Centre,6.115606667,7.500843333,Enugu,Awgu,Enugu West,7f839ad5-8c3a-4bbb-a5e0-018e5eb0623e
+Ngbokolo Health Centre,6.144265,7.36797,Enugu,Oji River,Enugu West,ab2a700c-8071-436b-ab34-5774ec6e3267
+Kuchigoro Primary Health Centre,9.016076667,7.422598333,Federal Capital Territory,Municipal Area Council,Federal Capital Territory,936726cb-d63e-481b-8f5f-0a5e27a651d3
+Dutse Alhaji Primary Health Centre,9.141528333,7.372666667,Federal Capital Territory,Bwari Area Council,Federal Capital Territory,1e398142-3f70-4b8d-b96a-0ced826066ff
+PHC Bula,10.35987667,10.98938,Gombe,Akko,Gombe Central,c88171f9-d441-4516-9b10-8f99e3a61881
+PHC Kobuwa,10.022505,11.15673667,Gombe,Akko,Gombe Central,a43b9fef-8da8-479c-9b8c-495cb552ca8f
+PHC Zange,10.55100833,10.778565,Gombe,Dukku,Gombe North ,df871565-9d85-43e0-88b5-73c1b04d7f4a
+PHC Gujuba,9.94349,11.32659333,Gombe,Kaltungo,Gombe South,700d1c8a-c0fb-4f7b-b829-face97f37189
+PHC Barwo Nasarawo,11.10158667,11.24150333,Gombe,Nafada,Gombe North ,e52a1b68-bd9d-4c08-8d8c-2a399d2c31c2
+Daja PHC,9.58835,11.01921667,Gombe,Shongom,Gombe South,7dfd7928-0ef0-43b4-8c32-1cb77c9d25d0
+Nguru Nweke Health Centre,5.499161667,7.267046667,Imo,Aboh Mbaise,Imo East,88b84fba-b799-4d10-992f-7461d888eb48
+Ezimba Health Centre,5.684961667,7.370828333,Imo,Ihitte/uboma,Imo North ,79486905-9179-41ce-9adc-aaa0736d323c
+Umuneke Health Centre,5.665315,7.189281667,Imo,Isiala Mbano,Imo North ,0b7500cd-51e0-4ec7-a029-447731b472d5
+Amaochaofara Umuotodike Health Centre,5.636681667,6.986936667,Imo,Mbaitoli,Imo East,04945de0-cb3c-4ab0-9c5a-7ab0f7723e74
+Amaokpara Primary Health Centre,5.771116667,7.081566667,Imo,Nkwerre,Imo West,2092ddb9-e0f3-40a9-9596-7fbeaea88a7b
+Awa Primary Health Centre,5.650488333,6.889165,Imo,Oguta,Imo West,bc34128f-6fc8-493a-8750-95443940b237
+Primary Health Centre Kaya,11.250655,7.239548333,Kaduna,Giwa,Kaduna Central,afc45706-6446-4d02-9bb0-ffae433ca914
+Kadawawa Basic Health Centre,11.99347,9.798155,Jigawa,Jaun,Jigawa South – West,9fcd6e30-6935-4103-9663-d4cb4b12b2a6
+Ungwar Shanu PHC,10.54693667,7.437723333,Kaduna,Kaduna North,Kaduna Central,aa6dbd83-8985-491e-9bde-463b773a96ce
+Shakato Basic Health Clinic,12.18203,10.099405,Jigawa,Kafin Hausa,Jigawa North – East,b229ac25-f149-439c-9c63-119dc7ea2282
+Model Primary Health Centre Iddah,9.418448333,7.361621667,Kaduna,Kagarko,Kaduna South,a8ba4059-9c13-4ac0-a426-b2552789c585
+Turabu Primary Health Centre,12.51070833,10.15738833,Jigawa,Kiri Kasamma,Jigawa North – East,c3e91ebd-e563-4869-a118-2cb6d27488f0
+MDG Gotomo,12.56987667,4.415175,Kebbi,Argungu,Kebbi North,5a2ec2fe-1506-4314-b47f-c6539278a69f
+MDG Lailaba,12.77028167,4.417573333,Kebbi,Argungu,Kebbi North,de7d6c01-d448-476d-9054-e21c83ef37c1
+MPHC Garki,12.83815333,8.793588333,Katsina,Baure,Katsina North,e6306b06-3a21-4ed4-9ee4-94518b138305
+Adakawa Health Clinic,12.01388667,8.505986667,Kano,Dala,Kano Central,53b6a6d9-18a0-4677-9d14-32cd163df7a1
+Dabai Primary Health Centre,11.37351667,7.638486667,Katsina,Danja,Katsina South,9ce8f9da-6b1f-45a5-a16c-5b086d35221d
+Falgore Health Facility,11.792175,8.447566667,Kano,Doguwa,Kano South,a49cc27e-da3e-4a3b-804a-0a6f9499fd12
+Kiyawa Primary Health Centre,11.78878667,9.602341667,Jigawa,Kiyawa,Jigawa South – West,0a3aad36-9373-46ab-afee-628adc0e1d62
+Karshi Primary Health Centre,12.23522167,8.94985,Jigawa,Ringim,Jigawa North - West ,ff71eb0b-d489-4eaa-b3e1-46b6807deea1
+ Shengel Primary Health Centre,12.15537167,8.972956667,Jigawa,Ringim,Jigawa North - West ,676053ce-b335-41b1-85e2-58b68de48181
+N/A,11.134195,7.703246667,Kaduna,Sabon Gari,Kaduna North,f607faa3-639c-454a-af3a-ef56f3f435f2
+Primary HealHCare Centre Gan Gora,9.933275,8.298926667,Kaduna,Zangon Kataf,Kaduna South,7da8c0e8-7328-4e28-b7aa-4d7f81d3db3f
+Iya Abdullahi Primary Health Centre,11.06887,7.70786,Kaduna,Zaria,Kaduna North,c9f3af05-f65f-4fb4-a8b1-69835a717d30
+Basic Health Centre Egge,7.56907,6.195543333,Kogi,Adavi,Kogi Central,3729a789-8c0d-419e-95c2-83b141db26d3
+Primary Health Care Centre Upake,7.30404,6.630141667,Kogi,Ajaokuta,Kogi Central,bad50675-9c1c-4077-a75b-305e1adf80ab
+Primary Health Care Centre Alapa,8.629505,4.384411667,Kwara,Asa,Kwara Central,64df691a-2419-4d15-85e9-cb00c04fe3fe
+Marina Primary Health Care Centre,6.412296667,2.882793333,Lagos,Badagry,Lagos West,12bc49c3-db73-4cf9-b004-af301a946ebd
+Primary Health Centre Gboloko,7.729315,6.892421667,Kogi,Bassa,Kogi East,0277efa6-dfc7-4d50-992f-7c1a0bca7ce1
+Primary Health Care Centre Odu Anana,7.592531667,7.135888333,Kogi,Dekina,Kogi East,9e77a440-706a-4d63-9709-b40e8e8e538d
+Gurbin Magarya Primary Health Centre,13.06363,7.204235,Katsina,Jibia,Katsina Central ,86936f46-d0fd-4403-867b-7ae83508a024
+Primary Health Centre Dankama,13.30711833,7.797346667,Katsina,Kaita,Katsina Central ,c8f9e4e1-cec8-4240-85b8-7253294da032
+Lani PHC,11.56823667,4.420325,Kebbi,Koko Besse,Kebbi Central,e8f8772f-431f-44eb-a180-a2a94a6f3e3c
+Model Primary Health Centre,12.50231167,8.274008333,Kano,Kunchi,Kano North,b8d3eab1-7b6a-4ee2-9e1d-e1737251a710
+MCH Mungadi,12.112955,4.12297,Kebbi,Maiyama,Kebbi Central,7e4736eb-c234-41f0-94b1-16edabc43a06
+Comprehensive Health Centre Matazu,12.24036667,7.673478333,Katsina,Matazu,Katsina South,8504d29e-c886-4564-8acd-5430485f1b54
+PHC Ngaski,10.41392667,4.721735,Kebbi,Ngaski,Kebbi South,841496b8-2f29-4a4a-ad19-0a50db3ed8d7
+PHC Utono,10.57807167,4.645543333,Kebbi,Ngaski,Kebbi South,cd2bcec1-35bf-4fb2-9bb4-802813388cfd
+Sumaila Yamma Primary Health Care,11.57072,8.949175,Kano,Sumaila,Kano South,25d9df52-ee2f-4f8d-b180-6a9bdf2aea1f
+Tsanyawa MCH Clinic,12.32676833,8.06732,Kano,Tsanyawa,Kano North,6e8df482-ef62-47e7-944e-293f36758cfd
+Chiromawa Primary Health Centre,12.06469667,8.464615,Kano,Ungogo,Kano Central,6e9eabd6-0e7c-42eb-800a-746ef488e3c1
+PHC Centre,12.99206833,8.519103333,Katsina,Zango,Katsina North,0d29a7de-c09e-4a89-963a-eae88c657a53
+Ejinrin PHC,6.61302,3.89767,Lagos,Epe,Lagos East,35d3188c-11be-4632-a953-551a2cad0c2f
+Ikate Primary Health Care Centre,6.434248333,3.484965,Lagos,Eti-Osa,Lagos Central,0f6c4673-dce5-4d18-a51b-478ce12493eb
+Badore Primary Health Care Centre,6.509291667,3.61142,Lagos,Eti-Osa,Lagos Central,ea341168-59df-47d4-8a79-5cd9e7455c7d
+Ijede Primary Health Care Centre,6.56488,3.590088,Lagos,Ikorodu,Lagos East,48555221-b55c-414f-bac3-276c8bc61bfc
+PHC Tanke Jalala,8.474483333,4.62848,Kwara,Ilorin South,Kwara Central,916f383d-c088-47d1-b949-b36b16f5cc0a
+"Maternal And Child Health Clinic, Egbeda",7.768523333,6.10695,Kogi,Kabba,Kogi West,606c33bc-2a4b-4a9e-8233-abd60d05d68f
+MPHC Okpareke,8.044748333,6.839501667,Kogi,Kogi,Kogi West,76cd11db-f9de-4d04-8a1f-81e2aef0eee4
+BHC Bode Saadu,8.939208333,4.781213333,Kwara,Moro,Kwara North,d25d55f9-503f-4aae-a05a-919ac5abdcf1
+Mafoluku Primary Health Care Centre,6.55994,3.332255,Lagos,Oshodi/isolo,Lagos West,7ad3f6ec-1d5d-45a1-85dd-68e35abc6079
+BHC Ojoku,8.255595,4.654685,Kwara,Oyun,Kwara South,96a6e687-0442-467b-b243-51639eda415e
+Infant Welfare Clinic Patigi,8.730098333,5.760963333,Kwara,Pategi,Kwara North,aa0a4f73-1a88-4562-845a-a4f6489e30cd
+PHC Gudi,8.875173333,8.266383333,Nassarawa,Akawanga,Nassarawa North,59a5956a-59a5-4df2-900e-eb28dac7bf32
+PHC Tunga,8.005323333,9.320601667,Nassarawa,Awe,Nassarawa South,72f2e7e3-61cb-4da7-94a4-c2d39c57a326
+PHC Mararaban Gurku,9.024903333,7.600191667,Nassarawa,Karu,Nassarawa West,8b61c5d6-e473-4992-8890-42870b15df41
+PHC 1 Ara,8.615335,7.58067,Nassarawa,Nassarawa,Nassarawa West,fa4389c1-acaa-40c2-b502-d900d9671542
+PHC Agwatashi,8.321046667,8.84987,Nassarawa,Obi,Nassarawa South,66383200-3ab4-4ba3-b517-a2f01b1a0480
+PHC Mangar,9.062028333,8.739083333,Nassarawa,Wamba,Nassarawa North,dd0e4eef-6e0c-4af4-9639-c39de502dc18
+Ijeja Health Clinic,7.14326,3.335918333,Ogun,Abeokuta South,Ogun Central,973d05b2-473e-4863-92ca-f1b84c714525
+Ijokp PHC,6.742036667,3.261878333,Ogun,Ado-Odo/ota,Ogun West,20879d1e-a5fc-4b68-8043-83cae3da4897
+PHC Albishiri,11.99078333,8.563021667,Niger,Chachanga,Niger East,611edbf1-786b-4080-9dc5-564cf1518745
+PHC Cheche,9.184905,6.287908333,Niger,Katcha,Niger South,f4b33f24-7d2e-452b-b1b2-3d83fb2e690c
+PHC Kontagora Usubu,10.39597833,5.437446667,Niger,Kontogora,Niger North,09216fd9-000d-4feb-beb7-43da34e4d241
+Basic Health Centre Muye,8.252486667,6.721041667,Niger,Lapai,Niger South,c7011fc6-0b2f-4ad4-a0a1-fbcacba0fa2d
+Bode Health Centre,7.208436667,3.374366667,Ogun,Odeda,Ogun Central,e989744b-3fd3-4994-98db-9e676e485c00
+Ita Baye Health Centre,6.496611667,4.377113333,Ogun,Ogun Waterside,Ogun East,71663934-e57f-4e9e-bc0f-96b72ff903f2
+Ajana PHC,7.064995,3.752563333,Ogun,Remo North,Ogun East,c4ed7a41-4a33-492a-a855-531fc9d4cc24
+Dr. Muazu Babangida PHC Maje,9.250131667,7.163173333,Niger,Suleja,Niger East,fe517d50-e4ca-4fa7-8182-03186839df7a
+PHC Kenkere,9.810725,6.175186667,Niger,Wushishi,Niger North,16b10a6b-3d32-465a-8fb7-0f001dc860b8
+Leslie PHC,6.89179,3.016101667,Ogun,Yewa South,Ogun West,b4898c47-2984-48ca-b791-55e02e66e4ee
+"Primary Health Care Clinic,Akungba",7.45828856,5.72838903,Ondo,Akoko South West,Ondo North,b6322f10-9b29-4e80-8f4d-205040afd1b0
+Iperindo Primary Health Centre,7.505378333,4.82543,Osun,Atakunmosa East,Osun East,9376b983-14a2-41e7-a764-fcc1abd8a0ab
+Osu Primary Health Centre,7.583455,4.61969,Ondo,Akoko North West,Ondo North,e48d658e-8d66-4d44-bcfa-088a76243f72
+Aduloju Primary Health Care Centre,7.43982,3.920238333,Oyo,Ibadan North,Oyo South,3336fd6c-5010-4cc0-8e91-73ce4222ab04
+Gbekuba Primary Health Care Centre,7.393861667,3.834905,Oyo,Ido,Oyo South,2742e182-4be8-4634-80c5-50f27870d890
+Basic Health Centre Ayetoro-Ijare,7.37254638,5.16079615,Ondo,Ifedore,Ondo Central,e354d097-2de0-4484-b226-492c181e0af3
+Adekunle PHC,8.011646667,4.902276667,Osun,Ila,Osun Central,754eb96f-829c-4e83-9a43-0d39598269ec
+Comprehensive Health Centre Igbokoda,6.35387703,4.80323271,Ondo,Ilaje,Ondo South,01de2bdd-fc38-42ed-aaec-a6aa35fbcfdd
+Comprehensive Health Centre Ode-Irele,6.47626865,4.8667772,Ondo,Irele,Ondo South,2bd1b129-3cd5-4f02-8dc8-c99834731486
+Primaryhealth Centre Bamidele,7.333075,4.32867,Osun,Irewole,Osun West,2f2ff50a-cfbb-4fb4-b385-c65bada3de77
+Bode Primary Health Centre,8.039265,3.348515,Oyo,Kajola,Oyo North,f81ddb9c-d8bb-4e50-946f-96ea3a47f10c
+Ibapon Primary Health Centre,8.111671667,4.182098333,Oyo,Ogbomosho South,Oyo North,e07c4916-0c90-4902-b5eb-9bd2a6c074b8
+Bodeosi Primary Health Centre,7.74955,4.22729,Osun,Ola-Oluwa,Osun West,2bea4a86-11cf-45db-b0a5-8e0862ba5213
+Atelewo Primary Health Centre,7.772953333,4.561791667,Osun,Olorunda,Osun Central,4728b1a7-e686-4806-a4ff-d362ae685ad0
+Adaramagbo Primary Health Care Centre,7.342426667,3.91659,Oyo,Oluyole,Oyo Central,30b1153a-fed1-4283-a613-ec846add233a
+"Comprehensive Health Centre, Kolawole",7.26994456,5.01005216,Ondo,Ondo East,Ondo Central,8a7305f8-6abe-4b31-b6bd-dd64384284bc
+"Basic Health Centre, Oke - Mapo, Owo.",7.19888145,5.58546823,Ondo,Owo,Ondo North,ee172f5c-041f-4191-ae3e-e25f4854f297
+Iresaapa Primary Health Care Centre,8.076936667,4.351363333,Oyo,Surulere,Oyo Central,b053e209-6fab-4bbc-b9bc-89f343a2373a
+PHC Zaron,9.673936667,9.003953333,Plateau,Barkin Ladi,Plateau North,5f274b4c-9c66-467b-a130-faa8b1b7f208
+Binji Upgrated Dispensary ,13.22241167,4.91117,Sokoto,Binji,Sokoto North,008bb99b-5dd7-4f38-b05d-20eb50839360
+MPHC Dange,12.85864167,5.339926667,Sokoto,Dange Shuni,Sokoto South,9c6cb8f0-0977-438a-899d-b6fe6292ed38
+CHC Degema,4.749948333,6.764005,Rivers,Degema,Rivers West,d822bce4-8632-4614-bc7b-e89ae1c75433
+Isiodu Health Post,4.887593333,6.861416667,Rivers,Emohua,Rivers East,78c5b0bd-984c-4bba-81a1-21d699f379f9
+"Grassroot MPHC, Okehi",5.12964,7.15909,Rivers,Etche,Rivers East,4ec4c75f-4e1b-44dd-9af6-b8c9e45ecdd3
+Biara Model Health Centre,4.669243333,7.301631667,Rivers,Gokana,Rivers South East,96f73176-7bb6-4010-a957-8bb55b34ef9f
+PHC Dole,13.33798167,5.610708333,Sokoto,Goronyo,Sokoto East,361b4971-aed7-4202-916b-506156ed1548
+Turba Dispensary,13.28153833,6.383746667,Sokoto,Isa,Sokoto East,fa8c26ba-8be2-4867-a516-00aecd18d0f8
+PHC Sabon Fobur,9.858271667,9.020245,Plateau,Jos East,Plateau North,f024b45d-8747-4f27-b59f-57dd0a036078
+PHC Amper Central,9.354868333,9.69954,Plateau,Kanke,Plateau Central,8fbd3a80-913e-414e-ae4e-605638565ba1
+PHC Lohkang,8.700338333,9.769206667,Plateau,Lantang North,Plateau South,2ef740f0-1847-408f-8098-3785e8e1ce6d
+PHC Mangu,9.487828333,9.13385,Plateau,Mangu,Plateau Central,685b2df9-fec2-422b-a042-8f6453f53bc2
+CHC Ndoni,5.542901667,6.596326667,Rivers,Ogba/egbema/ndoni,Rivers West,e0187bd7-b3cc-44cb-a032-63c09c66ad84
+CHC Oyigbo,4.875446667,7.13414,Rivers,Oyigbo,Rivers South East,cd59fe90-cd75-43e7-a119-6e81d41b0bd0
+PHC Namu,8.690355,9.105408333,Plateau,Qua’an Pan,Plateau South,ca3f2c77-1d34-4645-9cab-1e84b7485262
+Horo PHC,12.71636,5.15758,Sokoto,Shagari,Sokoto South,e3167988-0faf-42a3-83eb-0f2a51dfbfca
+Algon PHC Katami,12.941785,4.738651667,Sokoto,Silame,Sokoto North,27caee4d-ad1a-4f38-b026-3850f02c51db
+Primary Health Centre Billashe,12.56035333,6.799681667,Zamfara,Birnin Magaji,Zamfara North,9b2f055c-fe37-44f5-a049-835108364136
+Primary Health Centre Sabon Birni,12.56862167,6.867213333,Zamfara,Birnin Magaji,Zamfara North,6b87336d-6741-415b-ad7b-68a990964cd0
+Nasarawa Burkullu,12.04377333,5.742291667,Zamfara,Bukkuyum,Zamfara West,0b0724e7-9806-4993-9602-2a5e8b67006a
+Gwange MCH,11.74519,11.96618167,Yobe,Damaturu,Yobe South,65dd3585-7679-4e44-8bd6-4a4031023f21
+Daya Maternal And Child Health Centre,11.546365,11.03514667,Yobe,Fika,Yobe South,6db89153-cf85-4d81-9125-d995da8f2ff0
+Model Primary Health Care Garin Baushe,11.59183667,11.53426333,Yobe,Fune,Yobe South,f57e838a-2f03-4d00-bede-dd9b401428f2
+Phb Mutum Biyu,8.643943333,10.775285,Taraba,Gassol,Taraba Central,b2b52cb7-6158-4ce8-a5ce-87f31a83ffb3
+Tella MCH,8.394368333,10.51689667,Taraba,Gassol,Taraba Central,206671cf-7a93-4560-96b8-7e6c0b69e1ec
+Katibu MCH,9.256081667,11.53719667,Taraba,Lau,Taraba North,ca7415d0-98e7-4ed8-ab58-c3261871153b
+Sure-P Maternal And Child Health Facility Falimaram,13.06905833,9.935945,Yobe,Machina,Yobe North,b3496aa7-3458-4470-b45d-a76c19f13209
+Kaya Primary Health Centre,12.80381667,6.438893333,Zamfara,Maradun,Zamfara West,91fb58f6-27ea-4464-9f02-4f7155ebaa46
+PHC Bindin,11.68989833,6.336615,Zamfara,Maru,Zamfara Central,b25b29af-9053-477e-84e7-8b87841aace4
+PHC Yandotondaji,12.06693167,6.873536667,Zamfara,Tsafe,Zamfara Central,902259de-8d6c-4bf2-9a1c-b6b0ce7b0506
+BHC Bantaje,8.126653333,10.105945,Taraba,Wukari,Taraba South,3064978e-4db7-4ee1-982f-ed49e10e35ab
+Ikyaior Health Centre,7.891566667,9.692391667,Taraba,Wukari,Taraba South,cd9a9e5a-8408-4f47-8234-19e3dee3bf34
+MCH Manang Lakware,9.072253333,11.68002667,Taraba,Yorro,Taraba North,719150fa-43c3-4227-82fc-5d2d820ebf28
+CHC Yunusari,13.14397667,11.54091667,Yobe,Yunusari,Yobe East,6ed76b22-e200-4e78-9e97-66dc93fa86fb
+CHC Yusufari,13.05936333,11.16983167,Yobe,Yunusari,Yobe East,535cf714-b9b9-47e2-80fb-ab3693ccf74d
