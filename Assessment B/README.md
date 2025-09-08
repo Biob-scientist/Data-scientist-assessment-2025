@@ -15,6 +15,7 @@ In this project we developed a **machine learning screening tool** to predict po
   - Removed ambiguous results
   - Dropped columns with >90% missing values
   - Dropped free-text and low-variance features
+  - Dropped features without significant level of association with target
 - **Missing values**:
   - Age: replaced negative/missing values with median
   - Symptoms: missing assumed as 0 (not present)
